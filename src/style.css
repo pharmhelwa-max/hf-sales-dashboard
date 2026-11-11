@@ -1,0 +1,51 @@
+:root{--bg:#0f1420;--card:#161d2e;--card2:#1c2438;--text:#e8ecf5;--muted:#93a0bd;--accent:#4f8ff7;--good:#2fbf71;--warn:#f5a623;--bad:#e5484d;--border:#232c42;}
+*{box-sizing:border-box;}
+body{margin:0;font-family:'Segoe UI',Tahoma,Arial,sans-serif;background:var(--bg);color:var(--text);direction:rtl;}
+.wrap{max-width:1200px;margin:0 auto;padding:28px 20px 60px;}
+header{margin-bottom:22px;display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap;}
+header h1{font-size:26px;margin:0 0 6px;}
+header .sub{color:var(--muted);font-size:14px;}
+.toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;}
+.toolbar select,.toolbar button,.emp-select{padding:8px 14px;border-radius:10px;border:1px solid var(--border);background:var(--card2);color:var(--text);font-size:13.5px;font-family:inherit;}
+.toolbar button{cursor:pointer;font-weight:600;}
+.toolbar button:hover{border-color:var(--accent);}
+.mode{font-size:11.5px;padding:3px 10px;border-radius:999px;background:rgba(245,166,35,.15);color:var(--warn);font-weight:600;}
+.mode.live{background:rgba(47,191,113,.15);color:var(--good);}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin:20px 0 28px;}
+.card{background:linear-gradient(155deg,var(--card),var(--card2));border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+.card .label{color:var(--muted);font-size:12.5px;margin-bottom:8px;}
+.card .value{font-size:24px;font-weight:700;}
+.card .sub{font-size:12px;color:var(--muted);margin-top:6px;}
+.pill{display:inline-block;padding:2px 10px;border-radius:999px;font-size:12px;font-weight:600;margin-top:6px;}
+.pill.good{background:rgba(47,191,113,.15);color:var(--good);}
+.pill.warn{background:rgba(245,166,35,.15);color:var(--warn);}
+.pill.bad{background:rgba(229,72,77,.15);color:var(--bad);}
+.section{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;margin-bottom:22px;}
+.section h2{font-size:17px;margin:0 0 14px;display:flex;align-items:center;gap:8px;}
+.chart-wrap{position:relative;height:280px;}
+.table-scroll{overflow-x:auto;}
+table{width:100%;border-collapse:collapse;font-size:13.5px;}
+th,td{padding:9px 10px;text-align:center;border-bottom:1px solid var(--border);white-space:nowrap;}
+th{color:var(--muted);font-weight:600;font-size:12.5px;position:sticky;top:0;background:var(--card);}
+td:first-child,th:first-child{text-align:right;}
+tr:hover td{background:rgba(255,255,255,.02);}
+.branch-tabs{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap;}
+.branch-tabs button{background:var(--card2);border:1px solid var(--border);color:var(--text);padding:8px 16px;border-radius:10px;cursor:pointer;font-size:13.5px;font-weight:600;font-family:inherit;}
+.branch-tabs button.active{background:var(--accent);border-color:var(--accent);}
+.sub-h{font-size:15px;margin:20px 0 12px;}
+footer{color:var(--muted);font-size:12px;text-align:center;margin-top:30px;}
+.kpi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;}
+.kpi-grid .chart-wrap{height:220px;}
+.kpi-grid h4{margin:0 0 8px;font-size:13px;color:var(--muted);font-weight:600;}
+.emp-select{min-width:240px;margin-bottom:14px;}
+.empty,.status{color:var(--muted);text-align:center;padding:60px 20px;}
+.error{color:var(--bad);}
+/* login */
+.login{max-width:380px;margin:12vh auto;background:var(--card);border:1px solid var(--border);border-radius:16px;padding:28px;}
+.login h1{font-size:20px;margin:0 0 18px;}
+.login label{display:block;font-size:12.5px;color:var(--muted);margin:12px 0 6px;}
+.login input{width:100%;padding:10px 12px;border-radius:10px;border:1px solid var(--border);background:var(--card2);color:var(--text);font-size:14px;direction:ltr;text-align:left;}
+.login button{width:100%;margin-top:20px;padding:11px;border:0;border-radius:10px;background:var(--accent);color:#fff;font-weight:700;font-size:14px;cursor:pointer;font-family:inherit;}
+.login button:disabled{opacity:.6;cursor:wait;}
+.login .msg{margin-top:14px;font-size:13px;}
+@media (max-width:600px){.wrap{padding:18px 12px 40px;}header h1{font-size:21px;}.card .value{font-size:20px;}}

@@ -1,0 +1,724 @@
+{
+ "month": "2026-11-01",
+ "days_in_month": 30,
+ "branches": [
+  {
+   "name": "حلوة",
+   "color": "#2E75B6",
+   "sort_order": 1,
+   "is_call_center": false
+  },
+  {
+   "name": "شيرين",
+   "color": "#8E44AD",
+   "sort_order": 2,
+   "is_call_center": false
+  },
+  {
+   "name": "منى",
+   "color": "#C0392B",
+   "sort_order": 3,
+   "is_call_center": false
+  },
+  {
+   "name": "كول سنتر",
+   "color": "#16A085",
+   "sort_order": 4,
+   "is_call_center": true
+  }
+ ],
+ "targets": [
+  {
+   "branch": "حلوة",
+   "cash_target": 2650000,
+   "contract_target": 800000,
+   "ivf_deduction": 266620.36,
+   "contract_invoices": null
+  },
+  {
+   "branch": "شيرين",
+   "cash_target": 925000,
+   "contract_target": 900000,
+   "ivf_deduction": 1999.68,
+   "contract_invoices": null
+  },
+  {
+   "branch": "منى",
+   "cash_target": 225000,
+   "contract_target": 600000,
+   "ivf_deduction": 0,
+   "contract_invoices": null
+  },
+  {
+   "branch": "كول سنتر",
+   "cash_target": 650000,
+   "contract_target": null,
+   "ivf_deduction": 0,
+   "contract_invoices": 487
+  }
+ ],
+ "daily": [
+  {
+   "branch": "حلوة",
+   "day": 1,
+   "cash": 164661.8,
+   "contract": 172198.13,
+   "avg_invoice": 885.71,
+   "pct_coded": 80.5,
+   "avg_items": 3.0216
+  },
+  {
+   "branch": "حلوة",
+   "day": 2,
+   "cash": 136424.64,
+   "contract": 107608.83,
+   "avg_invoice": 686.39,
+   "pct_coded": 94.4,
+   "avg_items": 2.6378
+  },
+  {
+   "branch": "حلوة",
+   "day": 3,
+   "cash": 90797.11,
+   "contract": 28663.18,
+   "avg_invoice": 413.77,
+   "pct_coded": 90.7,
+   "avg_items": 2.5833
+  },
+  {
+   "branch": "حلوة",
+   "day": 4,
+   "cash": 80929.08,
+   "contract": 58608.91,
+   "avg_invoice": 557.93,
+   "pct_coded": 91.4,
+   "avg_items": 3.1357
+  },
+  {
+   "branch": "حلوة",
+   "day": 5,
+   "cash": 82568.84,
+   "contract": 18801.18,
+   "avg_invoice": 535.71,
+   "pct_coded": 85.1,
+   "avg_items": 2.6818
+  },
+  {
+   "branch": "حلوة",
+   "day": 6,
+   "cash": 31803.51,
+   "contract": 2902.46,
+   "avg_invoice": 558.73,
+   "pct_coded": 71.2,
+   "avg_items": 2.25
+  },
+  {
+   "branch": "حلوة",
+   "day": 7,
+   "cash": 103650.62,
+   "contract": 11901.95,
+   "avg_invoice": 686.9,
+   "pct_coded": 95.3,
+   "avg_items": 2.8543
+  },
+  {
+   "branch": "حلوة",
+   "day": 8,
+   "cash": 141998.46,
+   "contract": 10981.37,
+   "avg_invoice": 625.5,
+   "pct_coded": 90.9,
+   "avg_items": 2.9409
+  },
+  {
+   "branch": "حلوة",
+   "day": 9,
+   "cash": 106294.27,
+   "contract": 26092.98,
+   "avg_invoice": 509.53,
+   "pct_coded": 90.4,
+   "avg_items": 2.6215
+  },
+  {
+   "branch": "حلوة",
+   "day": 10,
+   "cash": 72267.03,
+   "contract": 18940.1,
+   "avg_invoice": 445.94,
+   "pct_coded": 90.7,
+   "avg_items": 2.78
+  },
+  {
+   "branch": "شيرين",
+   "day": 1,
+   "cash": 28424.8,
+   "contract": 63705.94,
+   "avg_invoice": 279.58,
+   "pct_coded": 50.8,
+   "avg_items": 2.2903
+  },
+  {
+   "branch": "شيرين",
+   "day": 2,
+   "cash": 31567.34,
+   "contract": 24346.59,
+   "avg_invoice": 311.22,
+   "pct_coded": 60.3,
+   "avg_items": 2.1728
+  },
+  {
+   "branch": "شيرين",
+   "day": 3,
+   "cash": 29427.36,
+   "contract": 22985.41,
+   "avg_invoice": 321.4,
+   "pct_coded": 64.6,
+   "avg_items": 2.4179
+  },
+  {
+   "branch": "شيرين",
+   "day": 4,
+   "cash": 25679.96,
+   "contract": 50072.12,
+   "avg_invoice": 303.85,
+   "pct_coded": 73.9,
+   "avg_items": 2.4789
+  },
+  {
+   "branch": "شيرين",
+   "day": 5,
+   "cash": 27048.06,
+   "contract": 16865.92,
+   "avg_invoice": 416.69,
+   "pct_coded": 74.1,
+   "avg_items": 2.1481
+  },
+  {
+   "branch": "شيرين",
+   "day": 6,
+   "cash": 21514.21,
+   "contract": 13275.39,
+   "avg_invoice": 316.73,
+   "pct_coded": 73.6,
+   "avg_items": 2.2963
+  },
+  {
+   "branch": "شيرين",
+   "day": 7,
+   "cash": 29906.92,
+   "contract": 182687.42,
+   "avg_invoice": 373.3,
+   "pct_coded": 62.7,
+   "avg_items": 2.2267
+  },
+  {
+   "branch": "شيرين",
+   "day": 8,
+   "cash": 25838.03,
+   "contract": 11328.55,
+   "avg_invoice": 231.67,
+   "pct_coded": 69.2,
+   "avg_items": 2.1358
+  },
+  {
+   "branch": "شيرين",
+   "day": 9,
+   "cash": 26007.66,
+   "contract": 15910.74,
+   "avg_invoice": 281.11,
+   "pct_coded": 87.1,
+   "avg_items": 2.2419
+  },
+  {
+   "branch": "شيرين",
+   "day": 10,
+   "cash": 24848.34,
+   "contract": 10926.12,
+   "avg_invoice": 301.06,
+   "pct_coded": 54.4,
+   "avg_items": 2.3833
+  },
+  {
+   "branch": "منى",
+   "day": 1,
+   "cash": 34806.51,
+   "contract": 37543.03,
+   "avg_invoice": 454.73,
+   "pct_coded": 85.7,
+   "avg_items": 4.2632
+  },
+  {
+   "branch": "منى",
+   "day": 2,
+   "cash": 3303.25,
+   "contract": 31016.89,
+   "avg_invoice": 195.88,
+   "pct_coded": 81.2,
+   "avg_items": 3.2
+  },
+  {
+   "branch": "منى",
+   "day": 3,
+   "cash": 4243.15,
+   "contract": 6758.99,
+   "avg_invoice": 260.38,
+   "pct_coded": 81.2,
+   "avg_items": 3.0357
+  },
+  {
+   "branch": "منى",
+   "day": 4,
+   "cash": 3296.45,
+   "contract": 35289.65,
+   "avg_invoice": 180.36,
+   "pct_coded": 77.8,
+   "avg_items": 2.0476
+  },
+  {
+   "branch": "منى",
+   "day": 5,
+   "cash": 5215.56,
+   "contract": 17639.86,
+   "avg_invoice": 234.34,
+   "pct_coded": 90.9,
+   "avg_items": 2.2
+  },
+  {
+   "branch": "منى",
+   "day": 6,
+   "cash": 1402.25,
+   "contract": 1223.72,
+   "avg_invoice": 93.48,
+   "pct_coded": 86.7,
+   "avg_items": 1.5333
+  },
+  {
+   "branch": "منى",
+   "day": 7,
+   "cash": 2510.64,
+   "contract": 28272.48,
+   "avg_invoice": 114.33,
+   "pct_coded": 100,
+   "avg_items": 1
+  },
+  {
+   "branch": "منى",
+   "day": 8,
+   "cash": 20748.82,
+   "contract": 15728.18,
+   "avg_invoice": 211.48,
+   "pct_coded": 90,
+   "avg_items": 2.2778
+  },
+  {
+   "branch": "منى",
+   "day": 9,
+   "cash": 2102.97,
+   "contract": 12779.37,
+   "avg_invoice": 112.52,
+   "pct_coded": 100,
+   "avg_items": 2.3636
+  },
+  {
+   "branch": "منى",
+   "day": 10,
+   "cash": 901.95,
+   "contract": 2057.2,
+   "avg_invoice": 108.75,
+   "pct_coded": 100,
+   "avg_items": 1.5
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 1,
+   "cash": 39799.92,
+   "contract": 237409.45,
+   "avg_invoice": 2094.73,
+   "pct_coded": 94.7,
+   "avg_items": 5.2794
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 2,
+   "cash": 9470,
+   "contract": 121758.12,
+   "avg_invoice": 676.43,
+   "pct_coded": 92.9,
+   "avg_items": 4.0241
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 3,
+   "cash": 9990.42,
+   "contract": 45044.16,
+   "avg_invoice": 525.81,
+   "pct_coded": 94.7,
+   "avg_items": 4.4783
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 4,
+   "cash": 6859.09,
+   "contract": 128235.97,
+   "avg_invoice": 403.48,
+   "pct_coded": 94.1,
+   "avg_items": 4.3034
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 5,
+   "cash": 2088.6,
+   "contract": 44289.69,
+   "avg_invoice": 232.07,
+   "pct_coded": 100,
+   "avg_items": 4.4103
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 6,
+   "cash": 5069.33,
+   "contract": 16995.01,
+   "avg_invoice": 422.44,
+   "pct_coded": 91.7,
+   "avg_items": 3.0909
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 7,
+   "cash": 4040.03,
+   "contract": 222365.53,
+   "avg_invoice": 161.6,
+   "pct_coded": 56,
+   "avg_items": 3.5714
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 8,
+   "cash": 26812.68,
+   "contract": 30480.3,
+   "avg_invoice": 1218.76,
+   "pct_coded": 90.9,
+   "avg_items": 3.5424
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 9,
+   "cash": 11009.41,
+   "contract": 43525.57,
+   "avg_invoice": 917.45,
+   "pct_coded": 91.7,
+   "avg_items": 3.4314
+  },
+  {
+   "branch": "كول سنتر",
+   "day": 10,
+   "cash": 9348.95,
+   "contract": 28833.66,
+   "avg_invoice": 584.31,
+   "pct_coded": 100,
+   "avg_items": 3.6226
+  }
+ ],
+ "company_daily_kpis": [
+  {
+   "day": 1,
+   "avg_invoice": 720.3,
+   "pct_coded": 73.8,
+   "avg_items": 2.94
+  },
+  {
+   "day": 2,
+   "avg_invoice": 557.98,
+   "pct_coded": 84.4,
+   "avg_items": 2.58
+  },
+  {
+   "day": 3,
+   "avg_invoice": 385.29,
+   "pct_coded": 84.5,
+   "avg_items": 2.59
+  },
+  {
+   "day": 4,
+   "avg_invoice": 450.76,
+   "pct_coded": 85,
+   "avg_items": 2.84
+  },
+  {
+   "day": 5,
+   "avg_invoice": 478.94,
+   "pct_coded": 83,
+   "avg_items": 2.51
+  },
+  {
+   "day": 6,
+   "avg_invoice": 393.69,
+   "pct_coded": 74.2,
+   "avg_items": 2.18
+  },
+  {
+   "day": 7,
+   "avg_invoice": 578.24,
+   "pct_coded": 84.6,
+   "avg_items": 2.63
+  },
+  {
+   "day": 8,
+   "avg_invoice": 512.32,
+   "pct_coded": 85.4,
+   "avg_items": 2.7
+  },
+  {
+   "day": 9,
+   "avg_invoice": 430.33,
+   "pct_coded": 90.2,
+   "avg_items": 2.51
+  },
+  {
+   "day": 10,
+   "avg_invoice": 400.41,
+   "pct_coded": 81,
+   "avg_items": 2.63
+  }
+ ],
+ "employees": [
+  {
+   "branch": "حلوة",
+   "name": "Taha Anwar",
+   "monthly": {
+    "cash_net": 188569,
+    "invoices": 280,
+    "contract": 451,
+    "avg_invoice": 673,
+    "avg_items": 2.76,
+    "pct_coded": 96.4,
+    "cosmo": 16631
+   },
+   "daily": []
+  },
+  {
+   "branch": "حلوة",
+   "name": "Mohamed Maher",
+   "monthly": {
+    "cash_net": 143667,
+    "invoices": 409,
+    "contract": 0,
+    "avg_invoice": 351,
+    "avg_items": 2.94,
+    "pct_coded": 80.9,
+    "cosmo": 12512
+   },
+   "daily": []
+  },
+  {
+   "branch": "حلوة",
+   "name": "Donia Ashraf",
+   "monthly": {
+    "cash_net": 120706,
+    "invoices": 330,
+    "contract": 0,
+    "avg_invoice": 366,
+    "avg_items": 2.68,
+    "pct_coded": 90.3,
+    "cosmo": 25918
+   },
+   "daily": []
+  },
+  {
+   "branch": "حلوة",
+   "name": "Amr Alaa",
+   "monthly": {
+    "cash_net": 113543,
+    "invoices": 224,
+    "contract": 496,
+    "avg_invoice": 507,
+    "avg_items": 3.22,
+    "pct_coded": 89.3,
+    "cosmo": 12594
+   },
+   "daily": []
+  },
+  {
+   "branch": "حلوة",
+   "name": "mohamed fawzy",
+   "monthly": {
+    "cash_net": 88914,
+    "invoices": 223,
+    "contract": 0,
+    "avg_invoice": 399,
+    "avg_items": 2.43,
+    "pct_coded": 91.9,
+    "cosmo": 11500
+   },
+   "daily": []
+  },
+  {
+   "branch": "حلوة",
+   "name": "عبدالله محمد",
+   "monthly": {
+    "cash_net": 52445,
+    "invoices": 173,
+    "contract": 0,
+    "avg_invoice": 303,
+    "avg_items": 2.51,
+    "pct_coded": 92.5,
+    "cosmo": 6122
+   },
+   "daily": []
+  },
+  {
+   "branch": "شيرين",
+   "name": "Mostafa Ramadan",
+   "monthly": {
+    "cash_net": 77126,
+    "invoices": 223,
+    "contract": 948,
+    "avg_invoice": 346,
+    "avg_items": 2.3,
+    "pct_coded": 61,
+    "cosmo": 8009
+   },
+   "daily": []
+  },
+  {
+   "branch": "شيرين",
+   "name": "Mohamed Ramadan",
+   "monthly": {
+    "cash_net": 49319,
+    "invoices": 174,
+    "contract": 2011,
+    "avg_invoice": 283,
+    "avg_items": 2.13,
+    "pct_coded": 67.2,
+    "cosmo": 13026
+   },
+   "daily": []
+  },
+  {
+   "branch": "شيرين",
+   "name": "Bahaa AbdelRahman",
+   "monthly": {
+    "cash_net": 44545,
+    "invoices": 144,
+    "contract": 2491,
+    "avg_invoice": 309,
+    "avg_items": 2.26,
+    "pct_coded": 71.5,
+    "cosmo": 6025
+   },
+   "daily": []
+  },
+  {
+   "branch": "شيرين",
+   "name": "Dr wessam Nabil",
+   "monthly": {
+    "cash_net": 30141,
+    "invoices": 111,
+    "contract": 5312,
+    "avg_invoice": 272,
+    "avg_items": 2.47,
+    "pct_coded": 72.1,
+    "cosmo": 7199
+   },
+   "daily": []
+  },
+  {
+   "branch": "منى",
+   "name": "Omar Mostafa",
+   "monthly": {
+    "cash_net": 27937,
+    "invoices": 132,
+    "contract": 72112,
+    "avg_invoice": 212,
+    "avg_items": 2.63,
+    "pct_coded": 87.1,
+    "cosmo": 3506
+   },
+   "daily": []
+  },
+  {
+   "branch": "منى",
+   "name": "Amr Mamdouh",
+   "monthly": {
+    "cash_net": 0,
+    "invoices": 0,
+    "contract": 0,
+    "avg_invoice": 0,
+    "avg_items": 0,
+    "pct_coded": 0,
+    "cosmo": 0
+   },
+   "daily": []
+  },
+  {
+   "branch": "كول سنتر",
+   "name": "Mostafa Ismail",
+   "monthly": {
+    "cash_net": 65874,
+    "invoices": 51,
+    "contract": 397501,
+    "avg_invoice": 1292,
+    "avg_items": 4.07,
+    "pct_coded": 72.5,
+    "cosmo": 3366
+   },
+   "daily": []
+  },
+  {
+   "branch": "كول سنتر",
+   "name": "israa kashif",
+   "monthly": {
+    "cash_net": 9544,
+    "invoices": 20,
+    "contract": 229695,
+    "avg_invoice": 477,
+    "avg_items": 4.18,
+    "pct_coded": 100,
+    "cosmo": 965
+   },
+   "daily": []
+  },
+  {
+   "branch": "كول سنتر",
+   "name": "Mahmoud Zidan",
+   "monthly": {
+    "cash_net": 17061,
+    "invoices": 40,
+    "contract": 217933,
+    "avg_invoice": 427,
+    "avg_items": 4.49,
+    "pct_coded": 87.5,
+    "cosmo": 13914
+   },
+   "daily": []
+  },
+  {
+   "branch": "كول سنتر",
+   "name": "Ibrahim",
+   "monthly": {
+    "cash_net": 30200,
+    "invoices": 48,
+    "contract": 27163,
+    "avg_invoice": 629,
+    "avg_items": 4.4,
+    "pct_coded": 100,
+    "cosmo": 1213
+   },
+   "daily": []
+  },
+  {
+   "branch": "كول سنتر",
+   "name": "Manar Torky",
+   "monthly": {
+    "cash_net": 1809,
+    "invoices": 6,
+    "contract": 46646,
+    "avg_invoice": 302,
+    "avg_items": 3.37,
+    "pct_coded": 100,
+    "cosmo": 45
+   },
+   "daily": []
+  }
+ ]
+}
