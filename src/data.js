@@ -1,10 +1,18 @@
 import { createClient } from '@supabase/supabase-js';
-import seed from './data/seed.json';
+
+// Demo mode (bundled sample data) exists ONLY in `npm run dev`. The dynamic import sits behind
+// import.meta.env.DEV, so Vite drops seed.json from production bundles: a deploy without
+// Supabase env vars shows an error instead of publishing the sales data.
+async function demoSeed() {
+  if (!import.meta.env.DEV) throw new Error('Supabase غير مُعدّ (VITE_SUPABASE_URL / VITE_SUPABASE_ANON_KEY)');
+  return (await import('./data/seed.json')).default;
+}
 
 const url = import.meta.env.VITE_SUPABASE_URL;
 const anon = import.meta.env.VITE_SUPABASE_ANON_KEY;
 
 export const isLive = Boolean(url && anon);
+export const isDemo = !isLive && import.meta.env.DEV;
 export const sb = isLive ? createClient(url, anon) : null;
 
 const pad = (n) => String(n).padStart(2, '0');
@@ -31,7 +39,7 @@ async function fetchAll(build) {
 
 /** Months that have data, newest first. */
 export async function listMonths() {
-  if (!isLive) return [seed.month];
+  if (!isLive) return [(await demoSeed()).month];
   const { data, error } = await sb.from('monthly_targets').select('month').order('month', { ascending: false });
   if (error) throw error;
   return [...new Set(data.map((r) => r.month))];
@@ -42,7 +50,8 @@ export async function loadMonth(month) {
   return isLive ? loadLive(month) : loadDemo();
 }
 
-function loadDemo() {
+async function loadDemo() {
+  const seed = await demoSeed();
   const branches = seed.branches.map((b) => {
     const t = seed.targets.find((x) => x.branch === b.name);
     return {
