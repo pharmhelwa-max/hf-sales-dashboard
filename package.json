@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "demo": "vite --config vite.demo.config.js --port 5173 --strictPort",
     "build": "vite build",
     "preview": "vite preview",
     "seed": "node --env-file=.env.local scripts/seed.mjs"
