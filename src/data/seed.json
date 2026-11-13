@@ -494,7 +494,68 @@
     "pct_coded": 96.4,
     "cosmo": 16631
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 1325.96,
+     "pct_coded": 95.6,
+     "avg_items": 3.0222
+    },
+    {
+     "day": 2,
+     "avg_invoice": 1432.3,
+     "pct_coded": 95.3,
+     "avg_items": 2.4318
+    },
+    {
+     "day": 3,
+     "avg_invoice": 487.93,
+     "pct_coded": 93.8,
+     "avg_items": 2.8125
+    },
+    {
+     "day": 4,
+     "avg_invoice": 663.32,
+     "pct_coded": 91.3,
+     "avg_items": 2.8261
+    },
+    {
+     "day": 5,
+     "avg_invoice": 1211.72,
+     "pct_coded": 96.2,
+     "avg_items": 2.4231
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 1401.68,
+     "pct_coded": 100,
+     "avg_items": 2.6842
+    },
+    {
+     "day": 8,
+     "avg_invoice": 1023.69,
+     "pct_coded": 98.2,
+     "avg_items": 2.8
+    },
+    {
+     "day": 9,
+     "avg_invoice": 1786.93,
+     "pct_coded": 100,
+     "avg_items": 2.4783
+    },
+    {
+     "day": 10,
+     "avg_invoice": 887.35,
+     "pct_coded": 100,
+     "avg_items": 3.7857
+    }
+   ]
   },
   {
    "branch": "حلوة",
@@ -508,7 +569,68 @@
     "pct_coded": 80.9,
     "cosmo": 12512
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 785.96,
+     "pct_coded": 75.8,
+     "avg_items": 3.2121
+    },
+    {
+     "day": 2,
+     "avg_invoice": 362.66,
+     "pct_coded": 88.9,
+     "avg_items": 2.6852
+    },
+    {
+     "day": 3,
+     "avg_invoice": 596.68,
+     "pct_coded": 85.1,
+     "avg_items": 2.4043
+    },
+    {
+     "day": 4,
+     "avg_invoice": 597.62,
+     "pct_coded": 82.9,
+     "avg_items": 3.2
+    },
+    {
+     "day": 5,
+     "avg_invoice": 599.65,
+     "pct_coded": 63.6,
+     "avg_items": 3.1136
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 406.27,
+     "pct_coded": 97.5,
+     "avg_items": 2.925
+    },
+    {
+     "day": 8,
+     "avg_invoice": 307.84,
+     "pct_coded": 80.4,
+     "avg_items": 2.8696
+    },
+    {
+     "day": 9,
+     "avg_invoice": 355.15,
+     "pct_coded": 69,
+     "avg_items": 3.1429
+    },
+    {
+     "day": 10,
+     "avg_invoice": 205.29,
+     "pct_coded": 88.6,
+     "avg_items": 2.9143
+    }
+   ]
   },
   {
    "branch": "حلوة",
@@ -522,7 +644,68 @@
     "pct_coded": 90.3,
     "cosmo": 25918
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 2,
+     "avg_invoice": 612.3,
+     "pct_coded": 95.5,
+     "avg_items": 2.8182
+    },
+    {
+     "day": 3,
+     "avg_invoice": 294.02,
+     "pct_coded": 86.9,
+     "avg_items": 2.4426
+    },
+    {
+     "day": 4,
+     "avg_invoice": 524.8,
+     "pct_coded": 97.1,
+     "avg_items": 3.9429
+    },
+    {
+     "day": 5,
+     "avg_invoice": 207.11,
+     "pct_coded": 94.6,
+     "avg_items": 2.1622
+    },
+    {
+     "day": 6,
+     "avg_invoice": 605.94,
+     "pct_coded": 78.6,
+     "avg_items": 2.3571
+    },
+    {
+     "day": 7,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 8,
+     "avg_invoice": 530.95,
+     "pct_coded": 82.6,
+     "avg_items": 3.1304
+    },
+    {
+     "day": 9,
+     "avg_invoice": 297.8,
+     "pct_coded": 97.6,
+     "avg_items": 2.381
+    },
+    {
+     "day": 10,
+     "avg_invoice": 353.87,
+     "pct_coded": 89.2,
+     "avg_items": 2.2432
+    }
+   ]
   },
   {
    "branch": "حلوة",
@@ -536,7 +719,68 @@
     "pct_coded": 89.3,
     "cosmo": 12594
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 827.48,
+     "pct_coded": 63.4,
+     "avg_items": 2.9024
+    },
+    {
+     "day": 2,
+     "avg_invoice": 1189.15,
+     "pct_coded": 100,
+     "avg_items": 3.8
+    },
+    {
+     "day": 3,
+     "avg_invoice": 436.08,
+     "pct_coded": 94.7,
+     "avg_items": 3.6316
+    },
+    {
+     "day": 4,
+     "avg_invoice": 633.07,
+     "pct_coded": 93.8,
+     "avg_items": 3.625
+    },
+    {
+     "day": 5,
+     "avg_invoice": 439.4,
+     "pct_coded": 95.7,
+     "avg_items": 3.1304
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 1065.49,
+     "pct_coded": 93.3,
+     "avg_items": 3.7419
+    },
+    {
+     "day": 8,
+     "avg_invoice": 752.37,
+     "pct_coded": 100,
+     "avg_items": 3.1714
+    },
+    {
+     "day": 9,
+     "avg_invoice": 283.55,
+     "pct_coded": 95.8,
+     "avg_items": 2.6667
+    },
+    {
+     "day": 10,
+     "avg_invoice": 262.36,
+     "pct_coded": 88.5,
+     "avg_items": 2.9615
+    }
+   ]
   },
   {
    "branch": "حلوة",
@@ -550,7 +794,68 @@
     "pct_coded": 91.9,
     "cosmo": 11500
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 557.18,
+     "pct_coded": 90.9,
+     "avg_items": 2.7879
+    },
+    {
+     "day": 2,
+     "avg_invoice": 332.61,
+     "pct_coded": 100,
+     "avg_items": 2.6071
+    },
+    {
+     "day": 3,
+     "avg_invoice": 294.91,
+     "pct_coded": 93.8,
+     "avg_items": 2.2188
+    },
+    {
+     "day": 4,
+     "avg_invoice": 520.88,
+     "pct_coded": 100,
+     "avg_items": 2.1905
+    },
+    {
+     "day": 5,
+     "avg_invoice": 100.65,
+     "pct_coded": 100,
+     "avg_items": 1
+    },
+    {
+     "day": 6,
+     "avg_invoice": 696.3,
+     "pct_coded": 36.4,
+     "avg_items": 1.8182
+    },
+    {
+     "day": 7,
+     "avg_invoice": 355.45,
+     "pct_coded": 90.9,
+     "avg_items": 2.1818
+    },
+    {
+     "day": 8,
+     "avg_invoice": 431.32,
+     "pct_coded": 94.7,
+     "avg_items": 2.7895
+    },
+    {
+     "day": 9,
+     "avg_invoice": 217.55,
+     "pct_coded": 95.5,
+     "avg_items": 2.1364
+    },
+    {
+     "day": 10,
+     "avg_invoice": 1545.85,
+     "pct_coded": 92.9,
+     "avg_items": 2.6429
+    }
+   ]
   },
   {
    "branch": "حلوة",
@@ -564,7 +869,68 @@
     "pct_coded": 92.5,
     "cosmo": 6122
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 2,
+     "avg_invoice": 282.99,
+     "pct_coded": 93.8,
+     "avg_items": 1.875
+    },
+    {
+     "day": 3,
+     "avg_invoice": 402.36,
+     "pct_coded": 100,
+     "avg_items": 2.64
+    },
+    {
+     "day": 4,
+     "avg_invoice": 250.11,
+     "pct_coded": 80,
+     "avg_items": 2
+    },
+    {
+     "day": 5,
+     "avg_invoice": 301.83,
+     "pct_coded": 86.4,
+     "avg_items": 2.6818
+    },
+    {
+     "day": 6,
+     "avg_invoice": 340.65,
+     "pct_coded": 84.6,
+     "avg_items": 2.3846
+    },
+    {
+     "day": 7,
+     "avg_invoice": 522.27,
+     "pct_coded": 94.9,
+     "avg_items": 2.5385
+    },
+    {
+     "day": 8,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 9,
+     "avg_invoice": 419.7,
+     "pct_coded": 95.8,
+     "avg_items": 2.6667
+    },
+    {
+     "day": 10,
+     "avg_invoice": 238.61,
+     "pct_coded": 91.7,
+     "avg_items": 2.7083
+    }
+   ]
   },
   {
    "branch": "شيرين",
@@ -578,7 +944,68 @@
     "pct_coded": 61,
     "cosmo": 8009
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 297.46,
+     "pct_coded": 58.3,
+     "avg_items": 2.5833
+    },
+    {
+     "day": 2,
+     "avg_invoice": 354.26,
+     "pct_coded": 55.6,
+     "avg_items": 2.1351
+    },
+    {
+     "day": 3,
+     "avg_invoice": 333.49,
+     "pct_coded": 52.6,
+     "avg_items": 1.8947
+    },
+    {
+     "day": 4,
+     "avg_invoice": 313.54,
+     "pct_coded": 66.7,
+     "avg_items": 2.2
+    },
+    {
+     "day": 5,
+     "avg_invoice": 377.19,
+     "pct_coded": 70.4,
+     "avg_items": 2.0741
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 426.08,
+     "pct_coded": 54,
+     "avg_items": 2.5676
+    },
+    {
+     "day": 8,
+     "avg_invoice": 159.73,
+     "pct_coded": 57.9,
+     "avg_items": 1.9
+    },
+    {
+     "day": 9,
+     "avg_invoice": 289.58,
+     "pct_coded": 94.1,
+     "avg_items": 2.6471
+    },
+    {
+     "day": 10,
+     "avg_invoice": 613.14,
+     "pct_coded": 42.9,
+     "avg_items": 2.9286
+    }
+   ]
   },
   {
    "branch": "شيرين",
@@ -592,7 +1019,68 @@
     "pct_coded": 67.2,
     "cosmo": 13026
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 241.01,
+     "pct_coded": 21.4,
+     "avg_items": 1.7143
+    },
+    {
+     "day": 2,
+     "avg_invoice": 77.25,
+     "pct_coded": 33.3,
+     "avg_items": 1.6667
+    },
+    {
+     "day": 3,
+     "avg_invoice": 181.11,
+     "pct_coded": 60.9,
+     "avg_items": 1.875
+    },
+    {
+     "day": 4,
+     "avg_invoice": 206.02,
+     "pct_coded": 84.2,
+     "avg_items": 2.6
+    },
+    {
+     "day": 5,
+     "avg_invoice": 551.46,
+     "pct_coded": 84.6,
+     "avg_items": 2.5385
+    },
+    {
+     "day": 6,
+     "avg_invoice": 356.59,
+     "pct_coded": 64.7,
+     "avg_items": 2.2
+    },
+    {
+     "day": 7,
+     "avg_invoice": 239.31,
+     "pct_coded": 64.3,
+     "avg_items": 2.0714
+    },
+    {
+     "day": 8,
+     "avg_invoice": 248.87,
+     "pct_coded": 82.6,
+     "avg_items": 1.8261
+    },
+    {
+     "day": 9,
+     "avg_invoice": 285.84,
+     "pct_coded": 81.8,
+     "avg_items": 2.0909
+    },
+    {
+     "day": 10,
+     "avg_invoice": 306.05,
+     "pct_coded": 65,
+     "avg_items": 2.3333
+    }
+   ]
   },
   {
    "branch": "شيرين",
@@ -606,7 +1094,68 @@
     "pct_coded": 71.5,
     "cosmo": 6025
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 265.9,
+     "pct_coded": 53.8,
+     "avg_items": 2.1538
+    },
+    {
+     "day": 2,
+     "avg_invoice": 227,
+     "pct_coded": 65.4,
+     "avg_items": 1.8077
+    },
+    {
+     "day": 3,
+     "avg_invoice": 551.07,
+     "pct_coded": 81.8,
+     "avg_items": 3.5455
+    },
+    {
+     "day": 4,
+     "avg_invoice": 272.71,
+     "pct_coded": 66.7,
+     "avg_items": 2.5833
+    },
+    {
+     "day": 5,
+     "avg_invoice": 367.73,
+     "pct_coded": 71.4,
+     "avg_items": 1.9286
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 726.14,
+     "pct_coded": 85.7,
+     "avg_items": 1.7143
+    },
+    {
+     "day": 8,
+     "avg_invoice": 303.71,
+     "pct_coded": 68,
+     "avg_items": 2.6923
+    },
+    {
+     "day": 9,
+     "avg_invoice": 277.96,
+     "pct_coded": 96.3,
+     "avg_items": 2.1481
+    },
+    {
+     "day": 10,
+     "avg_invoice": 58.18,
+     "pct_coded": 33.3,
+     "avg_items": 1.8182
+    }
+   ]
   },
   {
    "branch": "شيرين",
@@ -620,7 +1169,68 @@
     "pct_coded": 72.1,
     "cosmo": 7199
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 308.43,
+     "pct_coded": 70,
+     "avg_items": 2.5455
+    },
+    {
+     "day": 2,
+     "avg_invoice": 414.46,
+     "pct_coded": 69.2,
+     "avg_items": 3
+    },
+    {
+     "day": 3,
+     "avg_invoice": 360.63,
+     "pct_coded": 75,
+     "avg_items": 3.2308
+    },
+    {
+     "day": 4,
+     "avg_invoice": 546.57,
+     "pct_coded": 87.5,
+     "avg_items": 3
+    },
+    {
+     "day": 5,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 6,
+     "avg_invoice": 245.38,
+     "pct_coded": 89.5,
+     "avg_items": 2.4737
+    },
+    {
+     "day": 7,
+     "avg_invoice": 223.5,
+     "pct_coded": 70.6,
+     "avg_items": 1.8235
+    },
+    {
+     "day": 8,
+     "avg_invoice": 156.24,
+     "pct_coded": 63.6,
+     "avg_items": 1.9167
+    },
+    {
+     "day": 9,
+     "avg_invoice": 265.25,
+     "pct_coded": 42.9,
+     "avg_items": 1.8571
+    },
+    {
+     "day": 10,
+     "avg_invoice": 137.98,
+     "pct_coded": 64.3,
+     "avg_items": 2.3571
+    }
+   ]
   },
   {
    "branch": "منى",
@@ -634,7 +1244,68 @@
     "pct_coded": 87.1,
     "cosmo": 3506
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 454.73,
+     "pct_coded": 85.7,
+     "avg_items": 4.2632
+    },
+    {
+     "day": 2,
+     "avg_invoice": 195.88,
+     "pct_coded": 81.2,
+     "avg_items": 3.2
+    },
+    {
+     "day": 3,
+     "avg_invoice": 260.38,
+     "pct_coded": 81.2,
+     "avg_items": 3.0357
+    },
+    {
+     "day": 4,
+     "avg_invoice": 180.36,
+     "pct_coded": 77.8,
+     "avg_items": 2.0476
+    },
+    {
+     "day": 5,
+     "avg_invoice": 234.34,
+     "pct_coded": 90.9,
+     "avg_items": 2.2
+    },
+    {
+     "day": 6,
+     "avg_invoice": 93.48,
+     "pct_coded": 86.7,
+     "avg_items": 1.5333
+    },
+    {
+     "day": 7,
+     "avg_invoice": 114.33,
+     "pct_coded": 100,
+     "avg_items": 1
+    },
+    {
+     "day": 8,
+     "avg_invoice": 211.48,
+     "pct_coded": 90,
+     "avg_items": 2.2778
+    },
+    {
+     "day": 9,
+     "avg_invoice": 112.52,
+     "pct_coded": 100,
+     "avg_items": 2.3636
+    },
+    {
+     "day": 10,
+     "avg_invoice": 108.75,
+     "pct_coded": 100,
+     "avg_items": 1.5
+    }
+   ]
   },
   {
    "branch": "منى",
@@ -648,7 +1319,68 @@
     "pct_coded": 0,
     "cosmo": 0
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 2,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 3,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 4,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 5,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 8,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 9,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 10,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    }
+   ]
   },
   {
    "branch": "كول سنتر",
@@ -662,7 +1394,68 @@
     "pct_coded": 72.5,
     "cosmo": 3366
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 3508.73,
+     "pct_coded": 90,
+     "avg_items": 4
+    },
+    {
+     "day": 2,
+     "avg_invoice": 1103.4,
+     "pct_coded": 100,
+     "avg_items": 5.1429
+    },
+    {
+     "day": 3,
+     "avg_invoice": 457.37,
+     "pct_coded": 90,
+     "avg_items": 4.1176
+    },
+    {
+     "day": 4,
+     "avg_invoice": 320.07,
+     "pct_coded": 75,
+     "avg_items": 4.8889
+    },
+    {
+     "day": 5,
+     "avg_invoice": 587,
+     "pct_coded": 100,
+     "avg_items": 5.25
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 104.78,
+     "pct_coded": 15.4,
+     "avg_items": 3.5758
+    },
+    {
+     "day": 8,
+     "avg_invoice": 3094.4,
+     "pct_coded": 100,
+     "avg_items": 2.5714
+    },
+    {
+     "day": 9,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 10,
+     "avg_invoice": 664.98,
+     "pct_coded": 100,
+     "avg_items": 3.2857
+    }
+   ]
   },
   {
    "branch": "كول سنتر",
@@ -676,7 +1469,68 @@
     "pct_coded": 100,
     "cosmo": 965
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 90,
+     "pct_coded": 100,
+     "avg_items": 5.3023
+    },
+    {
+     "day": 2,
+     "avg_invoice": 1515,
+     "pct_coded": 100,
+     "avg_items": 3.8214
+    },
+    {
+     "day": 3,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 7.0909
+    },
+    {
+     "day": 4,
+     "avg_invoice": 144.19,
+     "pct_coded": 100,
+     "avg_items": 3.2333
+    },
+    {
+     "day": 5,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 5.8
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 232.56,
+     "pct_coded": 100,
+     "avg_items": 4.375
+    },
+    {
+     "day": 8,
+     "avg_invoice": 175.16,
+     "pct_coded": 100,
+     "avg_items": 2.6923
+    },
+    {
+     "day": 9,
+     "avg_invoice": 836.49,
+     "pct_coded": 100,
+     "avg_items": 3.2381
+    },
+    {
+     "day": 10,
+     "avg_invoice": 226,
+     "pct_coded": 100,
+     "avg_items": 3.0909
+    }
+   ]
   },
   {
    "branch": "كول سنتر",
@@ -690,7 +1544,68 @@
     "pct_coded": 87.5,
     "cosmo": 13914
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 31.5,
+     "pct_coded": 100,
+     "avg_items": 6.4118
+    },
+    {
+     "day": 2,
+     "avg_invoice": 278.5,
+     "pct_coded": 50,
+     "avg_items": 4.12
+    },
+    {
+     "day": 3,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 4,
+     "avg_invoice": 338.45,
+     "pct_coded": 100,
+     "avg_items": 4.9048
+    },
+    {
+     "day": 5,
+     "avg_invoice": 127,
+     "pct_coded": 100,
+     "avg_items": 5.1875
+    },
+    {
+     "day": 6,
+     "avg_invoice": 548.23,
+     "pct_coded": 87.5,
+     "avg_items": 3.3571
+    },
+    {
+     "day": 7,
+     "avg_invoice": 218.45,
+     "pct_coded": 100,
+     "avg_items": 3.0588
+    },
+    {
+     "day": 8,
+     "avg_invoice": 408.46,
+     "pct_coded": 66.7,
+     "avg_items": 3.3913
+    },
+    {
+     "day": 9,
+     "avg_invoice": 1156,
+     "pct_coded": 75,
+     "avg_items": 4.4706
+    },
+    {
+     "day": 10,
+     "avg_invoice": 406.25,
+     "pct_coded": 100,
+     "avg_items": 4.75
+    }
+   ]
   },
   {
    "branch": "كول سنتر",
@@ -704,7 +1619,68 @@
     "pct_coded": 100,
     "cosmo": 1213
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 869.53,
+     "pct_coded": 100,
+     "avg_items": 8
+    },
+    {
+     "day": 2,
+     "avg_invoice": 313.5,
+     "pct_coded": 100,
+     "avg_items": 2.8333
+    },
+    {
+     "day": 3,
+     "avg_invoice": 763.22,
+     "pct_coded": 100,
+     "avg_items": 3.6667
+    },
+    {
+     "day": 4,
+     "avg_invoice": 729.64,
+     "pct_coded": 100,
+     "avg_items": 6
+    },
+    {
+     "day": 5,
+     "avg_invoice": 207.93,
+     "pct_coded": 100,
+     "avg_items": 1.8333
+    },
+    {
+     "day": 6,
+     "avg_invoice": 170.88,
+     "pct_coded": 100,
+     "avg_items": 1.6
+    },
+    {
+     "day": 7,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 8,
+     "avg_invoice": 948.85,
+     "pct_coded": 100,
+     "avg_items": 5.8889
+    },
+    {
+     "day": 9,
+     "avg_invoice": 530,
+     "pct_coded": 100,
+     "avg_items": 1
+    },
+    {
+     "day": 10,
+     "avg_invoice": 790.5,
+     "pct_coded": 100,
+     "avg_items": 2.4286
+    }
+   ]
   },
   {
    "branch": "كول سنتر",
@@ -718,7 +1694,68 @@
     "pct_coded": 100,
     "cosmo": 45
    },
-   "daily": []
+   "daily": [
+    {
+     "day": 1,
+     "avg_invoice": 212,
+     "pct_coded": 100,
+     "avg_items": 3.6364
+    },
+    {
+     "day": 2,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 3.5
+    },
+    {
+     "day": 3,
+     "avg_invoice": 279.14,
+     "pct_coded": 100,
+     "avg_items": 3
+    },
+    {
+     "day": 4,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 4.0769
+    },
+    {
+     "day": 5,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 3.5
+    },
+    {
+     "day": 6,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 0
+    },
+    {
+     "day": 7,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 4
+    },
+    {
+     "day": 8,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 3.5714
+    },
+    {
+     "day": 9,
+     "avg_invoice": 0,
+     "pct_coded": 0,
+     "avg_items": 2.5
+    },
+    {
+     "day": 10,
+     "avg_invoice": 380,
+     "pct_coded": 100,
+     "avg_items": 2.875
+    }
+   ]
   }
  ]
 }

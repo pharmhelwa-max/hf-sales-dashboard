@@ -62,6 +62,12 @@ panelMarks.forEach((m, i) => {
   panels[m[1]] = html.slice(m.index, end > m.index ? end : html.indexOf('<script>'));
 });
 
+// One `const EDATA = {...}` per branch, immediately followed by that branch's emp-<branch>-select lookup.
+const employeeDaily = {};
+for (const m of script.matchAll(/const EDATA = (\{.*?\});\s*\n\s*const names = Object\.keys\(EDATA\);\s*\n\s*const sel = document\.getElementById\('emp-([^']+)-select'\)/gs)) {
+  employeeDaily[m[2]] = JSON.parse(m[1]);
+}
+
 const daily = [];               // branch daily rows
 const targets = [];             // monthly targets
 const employees = [];           // employee master + monthly + daily
@@ -92,9 +98,8 @@ for (const b of branches) {
     // only the call-centre card states its contract invoice count ("487 فاتورة")
     contract_invoices: b.is_call_center ? num((panel.match(/>\s*([\d,]+)\s*فاتورة/) || [])[1]) || null : null });
 
-  // employee daily data
-  const em = panel.match(/const EDATA = (\{.*?\});\s*\n/s);
-  const edata = em ? JSON.parse(em[1]) : {};
+  // employee daily data (lives in the <script>, not the panel HTML)
+  const edata = employeeDaily[b.name] || {};
 
   // employee monthly rows
   const tbody = panel.match(/<tbody>(.*?)<\/tbody>/s)[1];
@@ -107,7 +112,8 @@ for (const b of branches) {
         cash_net: num(tds[1]), invoices: num(tds[2]), contract: num(tds[3]),
         avg_invoice: num(tds[4]), avg_items: num(tds[5]), pct_coded: num(tds[6]), cosmo: num(tds[7]),
       },
-      daily: (edata[name] || []).map((x) => ({ day: x.day, avg_invoice: x.avg_invoice, pct_coded: x.pct_coded, avg_items: x.avg_items })),
+      // the source pads every employee to 31 days with zeros; keep only days that have branch data
+      daily: (edata[name] || []).filter((x) => x.day <= n).map((x) => ({ day: x.day, avg_invoice: x.avg_invoice, pct_coded: x.pct_coded, avg_items: x.avg_items })),
     });
   }
 }
